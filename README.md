@@ -1,4 +1,4 @@
-# DFA-Even0sEven1s
+# DFA-Even0'sEven1's
 A python program to implement a Deterministc Finite Automata(DFA) which accepts <b>even number of 0's</b> and <b>even number of 1's</b>, where <b>∑ = {0, 1}</b>.
 <br>
 
